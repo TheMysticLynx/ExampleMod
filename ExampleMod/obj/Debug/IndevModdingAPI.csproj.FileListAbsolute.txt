@@ -1,0 +1,10 @@
+/Users/mystic/Projects/C#/IndevModdingAPI/IndevModdingAPI/bin/Debug/IndevModdingAPI.dll
+/Users/mystic/Projects/C#/IndevModdingAPI/IndevModdingAPI/bin/Debug/IndevModdingAPI.pdb
+/Users/mystic/Projects/C#/IndevModdingAPI/IndevModdingAPI/bin/Debug/UnityEngine.dll
+/Users/mystic/Projects/C#/IndevModdingAPI/IndevModdingAPI/bin/Debug/UnityEngine.pdb
+/Users/mystic/Projects/C#/IndevModdingAPI/IndevModdingAPI/bin/Debug/UnityEngine.xml
+/Users/mystic/Projects/C#/IndevModdingAPI/IndevModdingAPI/obj/Debug/IndevModdingAPI.csproj.AssemblyReference.cache
+/Users/mystic/Projects/C#/IndevModdingAPI/IndevModdingAPI/obj/Debug/IndevModdingAPI.csproj.CoreCompileInputs.cache
+/Users/mystic/Projects/C#/IndevModdingAPI/IndevModdingAPI/obj/Debug/IndevModdingAPI.csproj.CopyComplete
+/Users/mystic/Projects/C#/IndevModdingAPI/IndevModdingAPI/obj/Debug/IndevModdingAPI.dll
+/Users/mystic/Projects/C#/IndevModdingAPI/IndevModdingAPI/obj/Debug/IndevModdingAPI.pdb
