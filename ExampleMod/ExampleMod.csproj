@@ -49,20 +49,20 @@
         <Compile Include="Source\CellProcessors\CCWRotateProcessor.cs" />
         <Compile Include="Source\CellProcessors\CWRotateProcessor.cs" />
         <Compile Include="Source\CellProcessors\EnemyProcessor.cs" />
-        <Compile Include="Source\CellProcessors\FlipperCellProcessor.cs" />
+        <Compile Include="Source\CellProcessors\TrashMover.cs" />
         <Compile Include="Source\CellProcessors\GeneratorCellProcessor.cs" />
         <Compile Include="Source\CellProcessors\MoverCellProcessor.cs" />
         <Compile Include="Source\CellProcessors\RotatorProcessor.cs" />
         <Compile Include="Source\CellProcessors\SlideCellProcessor.cs" />
         <Compile Include="Source\CellProcessors\TrashCell.cs" />
         <Compile Include="Source\CellProcessors\WallCell.cs" />
-        <Compile Include="Source\FlipperMod.cs" />
+        <Compile Include="Source\TrashMoverMod.cs" />
     </ItemGroup>
     <ItemGroup>
-      <Folder Include="ExampleMod\Textures" />
+      <Folder Include="TroverMod\Textures" />
     </ItemGroup>
     <ItemGroup>
-      <Content Include="ExampleMod\ExampleMod.dll" />
+      <Content Include="TroverMod\ExampleMod.dll" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
     <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
