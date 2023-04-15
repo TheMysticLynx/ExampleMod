@@ -58,12 +58,6 @@
         <Compile Include="Source\CellProcessors\WallCell.cs" />
         <Compile Include="Source\FlipperMod.cs" />
     </ItemGroup>
-    <ItemGroup>
-      <Folder Include="ExampleMod\Textures" />
-    </ItemGroup>
-    <ItemGroup>
-      <Content Include="ExampleMod\ExampleMod.dll" />
-    </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
     <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
          Other similar extension points exist, see Microsoft.Common.targets.
